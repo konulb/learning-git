@@ -1,0 +1,7 @@
+I am from Azerbaijan.
+Git areas:
+-Staging area - plase where untracked are stored
+-Working area - the files that we have added eith `git add hello.txt
+-Repository - commited files
+
+Changed something
